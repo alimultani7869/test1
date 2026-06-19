@@ -58,5 +58,6 @@ ECC_GATEGUARD=off <your-command>
 
 ### Source Repos
 
-- ECC: `/home/user/ECC/` (github.com/affaan-m/ECC)
+- ECC: `/home/user/ECC/` (github.com/affaan-m/ECC) — primary framework, developer profile
+- ECC zh: `/home/user/everything-claude-code-zh/` (github.com/xu-xiang/everything-claude-code-zh) — Chinese-localized commands/agents merged in
 - codebase-memory-mcp: `/home/user/codebase-memory-mcp/` (github.com/DeusData/codebase-memory-mcp)
