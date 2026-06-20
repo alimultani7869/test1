@@ -12,7 +12,7 @@ ECC is installed globally at `/root/.claude/` with the `developer` profile.
 | Rules | `/root/.claude/rules/ecc/` — Angular, React, Python, Go, Rust, TypeScript, common |
 | Commands | `/root/.claude/commands/` — 80+ slash commands |
 | Agents | `/root/.claude/agents/` — 60+ specialized subagents |
-| Skills | `/root/.claude/skills/` — continuous learning, session, quality |
+| Skills | `/root/.claude/skills/` — continuous learning, session, quality + 46 marketing skills |
 | Hooks | `/root/.claude/hooks/hooks.json` — 7 event types wired in settings |
 | MCP configs | `/root/.claude/mcp-configs/` — preconfigured integrations |
 
@@ -61,3 +61,4 @@ ECC_GATEGUARD=off <your-command>
 - ECC: `/home/user/ECC/` (github.com/affaan-m/ECC) — primary framework, developer profile
 - ECC zh: `/home/user/everything-claude-code-zh/` (github.com/xu-xiang/everything-claude-code-zh) — Chinese-localized commands/agents merged in
 - codebase-memory-mcp: `/home/user/codebase-memory-mcp/` (github.com/DeusData/codebase-memory-mcp)
+- marketingskills: `/home/user/marketingskills/` (github.com/coreyhaines31/marketingskills) — 46 marketing skills installed to `/root/.claude/skills/`
